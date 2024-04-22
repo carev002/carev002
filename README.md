@@ -2,4 +2,4 @@
 
 A small Java project.
 
-* Ths repository belongs to cs_carev002@odu.edu
+* Ths repository belongs to carev002@odu.edu
